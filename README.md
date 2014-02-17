@@ -3,11 +3,9 @@
 This document is made by [gitfab](http://gitfab.org)
 ---
 #概要
-Arduinoで照度センサ（CDS Cell）とフルカラーLEDを連携させるサンプルです。
+Firefoxからarduino.jsを通してArduinoとサーボモータを制御するサンプルです。
 
-照度センサをタッチセンサのように使い、フルカラーLEDの色を切り替えます。
-
-フルカラーLEDはPWM点灯しています。
+Firefoxのコンテクストメニューから、「Real PageDown」を選択するとサーボモータが動いて、「↓」キーを押します。
 
 <iframe src="//www.youtube.com/embed/2FNyW4zn8Fg" width="400" frameborder="0" height="300"></iframe>
 ---
@@ -16,19 +14,15 @@ Arduinoで照度センサ（CDS Cell）とフルカラーLEDを連携させる�
 
 ###ソフトウェア
 
-1. [Arduino IDE](http://arduino.cc)
+1. [Firefox](http://www.mozilla.jp/firefox/)
 
 ###ハードウェア
 
 1. Arduino （Unoが扱いやすいです）
-1. ブレッドボード
-1. [フルカラーLED](http://akizukidenshi.com/catalog/g/gI-02476/)
-1. [CDSセル](http://akizukidenshi.com/catalog/g/gI-00110/)
-1. 抵抗：330Ω x4
 1. ジャンパワイヤ
-
-簡単のために330Ωの抵抗に統一しています。
-「参考」の「回路について」のリンクを参考にすることで、より正確な回路が作れます。
+1. [サーボモータ](http://www.ministudio.co.jp/Cgi-bin/Order-JP/DetailJp.asp?GoodsNum=54)
+1. ペン
+1. はがしやすいテープ
 
 ---
 #ハードウェア
