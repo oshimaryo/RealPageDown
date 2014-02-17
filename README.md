@@ -52,8 +52,6 @@ Firefoxを立ち上げて、任意のページにテキストをハイライト�
 ---
 #完成図
 
-
-
 ![IMG_6442.JPG](https://raw.github.com/oshimaryo/RealPageDown/master/)
 ---
 # 参考
