@@ -37,15 +37,18 @@ Firefoxのコンテクストメニューから、「Real PageDown」を選択す
 
 ---
 #ソフトウェア
-ソースコードは[githubレポジトリ](https://github.com/oshimaryo/FullColorLED_and_illuminanceSensor)にアップされています。
 
-画面右下側にある「Download ZIP」ボタンをクリックして、デスクトップにダウンロードします。
+###インストール
+ソースコードは[githubレポジトリ](https://github.com/oshimaryo/real-page-down)にアップされています。
 
-![スクリーンショット 2013-12-13 17.20.54.png](https://raw.github.com/oshimaryo/CDSCell-and-FullColorLED/master/gitfab/resources/スクリーンショット-2013-12-13-17.20.54.png)
+画面右下側にある「Download ZIP」ボタンをクリックして、デスクトップにダウンロード、解凍します。
 
-ダウンロードしたz
+解凍したディレクトリ内にある
+「real_page_down.xpi」をFirefoxにドラッグアンドドロップします。
 
-
+###動作確認
+Firefoxを立ち上げて、任意のページにテキストをハイライトし、右クリックしたところに「Real PageDown」というメニューが追加されたことを確認します。
+それをクリックし、サーボモータが動けばOKです。
 ---
 #完成図
 
