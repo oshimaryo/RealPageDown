@@ -29,7 +29,7 @@ Firefoxのコンテクストメニューから、「Real PageDown」を選択す
 
 以下の図のように配線します。
 
-![スクリーンショット 2013-12-13 17.48.59.png](https://raw.github.com/oshimaryo/CDSCell-and-FullColorLED/master/gitfab/resources/スクリーンショット-2013-12-13-17.48.59.png)
+![スクリーンショット 2014-02-14 13.23.37.png](https://raw.github.com/oshimaryo/RealPageDown/master/)
 
 以下は回路図のFritzingファイルです。（上の図と中身は同じです。）
 
