@@ -32,9 +32,6 @@ Firefoxのコンテクストメニューから、「Real PageDown」を選択す
 ![スクリーンショット 2014-02-14 13.23.37.png](https://raw.github.com/oshimaryo/RealPageDown/master/)
 
 以下は回路図のFritzingファイルです。（上の図と中身は同じです。）
-
-[fullColorLED-CDSCell.fzz](https://raw.github.com/oshimaryo/CDSCell-and-FullColorLED-Sample/master/gitfa
-
 ---
 #ソフトウェア
 
